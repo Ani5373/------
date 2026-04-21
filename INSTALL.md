@@ -75,11 +75,8 @@ yarn install
 ### 下载所需模型
 
 ```bash
-# 下载 Qwen 模型（推荐）
-ollama pull qwen2.5:7b
-
-# 或其他中文模型
-ollama pull qwen:7b
+# 下载 Qwen 模型（项目使用 3b 版本）
+ollama pull qwen2.5:3b
 ```
 
 ### 启动 Ollama 服务

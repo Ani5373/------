@@ -102,7 +102,7 @@ npm install
 确保 Ollama 服务已启动，并下载所需模型：
 
 ```bash
-ollama pull qwen2.5:7b
+ollama pull qwen2.5:3b
 ```
 
 ### 6. 启动项目
