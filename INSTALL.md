@@ -10,8 +10,8 @@
 ## 🔽 第一步：克隆项目
 
 ```bash
-git clone [你的 GitHub 仓库地址]
-cd [项目目录名]
+git clone https://github.com/Ani5373/legal-ai-assistant.git
+cd legal-ai-assistant
 ```
 
 ## 📦 第二步：下载模型文件（重要！）

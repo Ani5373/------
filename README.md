@@ -178,6 +178,11 @@ pytest tests/
 
 欢迎提交 Issue 和 Pull Request！
 
+项目地址：https://github.com/Ani5373/legal-ai-assistant
+
+## 📄 许可证
+
+MIT License
 
 ## ⚠️ 注意事项
 
